@@ -25,3 +25,5 @@ Contents (Tentative)
 5- Exclusive Secrets of My Work (How to Express Yourself in Music)
 
 6- Full Source Code of All Compositions
+
+http://oscar-riveros.blogspot.com/
