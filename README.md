@@ -1,4 +1,4 @@
-Advanced-Algorithmic-Composition
+Advanced Algorithmic Composition Book
 ================================
 
 Advanced Algorithmic Composition Book by Oscar Riveros
