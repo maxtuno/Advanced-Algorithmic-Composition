@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 # <nbformat>3.0</nbformat>
-
+# Materialized Music: https://soundcloud.com/maxtuno/advanced-algorithmic-2
+# Simple Algorithmic Composition 
+# Rudiments of Florid Counterpoint (An free context (Chromatic) Motivic Counterpoint)
+# Is the first stage... is basic simple and buggy...
 # <codecell>
 
 # Source Code: https://github.com/maxtuno/Advanced-Algorithmic-Composition
